@@ -1,2 +1,2 @@
 # ragerbots
-HTML documentation of Rager Bots CSGO map strategies
+HTML documentation of Rager Bots CSGO team: map strategies
